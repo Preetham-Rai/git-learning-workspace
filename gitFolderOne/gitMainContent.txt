@@ -20,3 +20,4 @@ git switch -c <branchName> - this will create a new branch and directly switch t
 =======
 this is the new line in bug-fix branch
 >>>>>>> bug-fix
+
