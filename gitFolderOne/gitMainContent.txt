@@ -7,3 +7,4 @@ git add <fileName> - to add the file to staged area
 git rm --cached <fileName> - to untage the file
 git restore <fileName> - to discard the changes
 git log - to check the work we have made (--oneline)
+gitignore - it ignores the file that is added to it
