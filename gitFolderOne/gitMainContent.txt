@@ -24,3 +24,8 @@ git diff --staged - shows the differences in in the staged area
 
 git stash - it works as a temporary location to store the untracked files before changing to other branches
 git stash apply - to apply back the changes to itself
+
+GitHub
+
+git remote -v
+git remote add origin(common name) - this is used add connection between remote and local repo
