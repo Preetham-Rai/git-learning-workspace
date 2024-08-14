@@ -21,3 +21,6 @@ git branch -m <oldBranchName> <newBranchName> - to rename the branch name
 
 git diff - it shows the difference in the git commit changes
 git diff --staged - shows the differences in in the staged area
+
+git stash - it works as a temporary location to store the untracked files before changing to other branches
+git stash apply - to apply back the changes to itself
