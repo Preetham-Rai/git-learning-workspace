@@ -20,4 +20,4 @@ git branch -d <branchName> - to delete the branch
 git branch -m <oldBranchName> <newBranchName> - to rename the branch name
 
 git diff - it shows the difference in the git commit changes
-git diff --staged
+git diff --staged - shows the differences in in the staged area
