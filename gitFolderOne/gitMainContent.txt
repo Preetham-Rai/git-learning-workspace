@@ -9,7 +9,6 @@ git restore <fileName> - to discard the changes
 git log - to check the work we have made (--oneline)
 gitignore - it ignores the file that is added to it
 
-<<<<<<< HEAD
 Git Branches
 
 git branch - to check the branches in your file.
@@ -17,7 +16,6 @@ git branch <branchName> - to create a branch with branch name
 git switch - switch to another branch
 git checkout - to checkout to different branch
 git switch -c <branchName> - this will create a new branch and directly switch to its branch.
-=======
-this is the new line in bug-fix branch
->>>>>>> bug-fix
+git branch -d <branchName> - to delete the branch
+git branch -m <oldBranchName> <newBranchName> - to rename the branch name
 
