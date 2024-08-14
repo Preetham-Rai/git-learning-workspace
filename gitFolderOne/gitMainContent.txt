@@ -29,3 +29,4 @@ GitHub
 
 git remote -v
 git remote add origin(common name) - this is used add connection between remote and local repo
+git push -u origin main - -u is a flag to set upstream to the remote repo later we can just use the cammand (git push) 
